@@ -96,5 +96,36 @@ ul, li {
 
 	left: 40px;
 }
+.container-fluid {
+	align-content: space-evenly;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.col {
+	column-count: 2;
+	width: 100%;
+	column-gap: 200px;
+
+		
+}
+
+.icon-link,.fa-envelope {
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+
+
+}
+.icons{
+	margin-top: 10px;
+	width: 300px;
+}
+#con{
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
 
 
