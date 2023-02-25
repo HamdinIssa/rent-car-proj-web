@@ -78,9 +78,23 @@ ul, li {
 	margin: 0px;
 	list-style-type: none;
 }
-.carousel-inner div{
-	height: 50%;
-  }
-  
+.carousel-inner{
+     height: 70%;
+}
+
+.carousel-item{
+    height: 100% !important;
+    width:  100% !important;
+
+}
+
+.blog-txt {
+
+	text-align: center;
+}
+.blog-line{
+
+	left: 40px;
+}
 
 
