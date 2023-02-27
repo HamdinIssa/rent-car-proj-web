@@ -89,88 +89,9 @@ ul, li {
 }
 
 
-.blog-line{
 
-	left: 40px;
-}
-.container-fluid {
-	align-content: space-evenly;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-
-}
-.col {
-	column-count: 2;
-	width: 100%;
-	column-gap: 200px;
-
-		
-}
-
-.icon-link,.fa-envelope {
-padding-top: 10px;
-padding-bottom: 10px;
-padding-right: 10px;
-
-
-}
-.icons{
-	margin-top: 10px;
-	width: 300px;
-}
-#con{
-	margin-bottom: 50px;
-	margin-top: 50px;
-}
 
 .abt-cen {
 	text-align: center;
 }
 
-
-@media (max-width: 992px) {
-	.alert-validate::before {
-	  visibility: visible;
-	  opacity: 1;
-	}
-  }
-
-  @media (max-width: 576px) {
-	.wrap-login100 {
-	  padding-left: 15px;
-	  padding-right: 15px;
-	}
-  }
-
-  @media (max-width: 992px) {
-	.wrap-login100 {
-	  padding: 177px 90px 33px 85px;
-	}
-}
-	@media (max-width: 768px) {
-		.wrap-login100 {
-		  padding: 100px 80px 33px 80px;
-		}
-	  
-		.login100-pic {
-		  display: none;
-		}
-	  
-		.login100-form {
-		  width: 100%;
-		}
-	  }
-
-	  @media (max-width: 576px) {
-		.wrap-login100 {
-		  padding: 100px 15px 33px 15px;
-		}
-	  }
-
-	  @media (max-width: 992px) {
-		.alert-validate::before {
-		  visibility: visible;
-		  opacity: 1;
-		}
-	  }
